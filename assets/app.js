@@ -1,0 +1,16 @@
+document.getElementById("bioData").innerHTML="RESUME";
+document.getElementById("hrLine2").innerHTML="<hr>";
+document.getElementById("bioData").style="color:blue";
+document.getElementById("stuName").innerText="A Noufiya";
+document.getElementById("stuName").style="font-size:55px;";
+document.getElementById("eMail").innerHTML="EMail ID:<u>fariznoufi@gmail.com</u>";
+document.getElementById("mobNo").innerHTML="Mobile:<b>8848457179</b>";
+document.getElementById("hrLine").innerHTML="<hr>";
+document.getElementById("pmntAdress").innerHTML="palakkad-678554";
+document.getElementById("proSkills").innerHTML="TECHNICAL SKILLS";
+document.getElementById("proSkills").style="color:blue";
+document.getElementById("unOrdered").innerHTML="<ul><li>HTML</li><li>CSS</li><li>Java</li></ul>"
+document.getElementById("hrLine1").innerHTML="<hr>";
+document.getElementById("education").innerHTML="EDUCATION";
+document.getElementById("education").style="color:blue";
+document.getElementById("ba").innerHTML="Bachelor Of Arts And Science<BR/> Calicut University<BR/> 2020-23"
